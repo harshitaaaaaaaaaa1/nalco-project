@@ -1,0 +1,38 @@
+.contactMainDiv {
+    background-color: white;
+    width: 100vw;
+}
+
+.imageDiv {
+    margin-top: 2rem;
+}
+
+.image {
+    width: 100%
+}
+
+.contactHeadingDiv {
+    margin-top: 2rem;
+}
+
+.contactHeading {
+    text-align: center;
+    font-weight: 500;
+}
+
+.cardSection {
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    margin-top: 2rem;
+}
+
+.registeredCard {
+    width: 40rem;
+    padding: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.cardPara {
+    margin: 0;
+}

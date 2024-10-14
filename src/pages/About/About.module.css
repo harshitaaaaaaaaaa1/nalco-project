@@ -1,0 +1,30 @@
+.aboutMainDiv {
+    background-color: white;
+    width: 100vw;
+}
+
+.imageDiv {
+    margin-top: 2rem;
+}
+
+.image {
+    width: 100%
+}
+
+.aboutHeadingDiv {
+    margin-top: 3rem;
+}
+
+.aboutHeading {
+    text-align: center;
+    font-weight: 500;
+}
+
+.aboutPara {
+    text-align: justify;
+}
+
+.aboutParaDiv {
+    margin-top: 2rem;
+    width: 70%;
+}

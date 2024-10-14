@@ -1,0 +1,91 @@
+.formDiv {
+    background-color: rgba(166, 203, 235, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.loginMainDiv {
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-image: url(https://nalcoindia.com/wp-content/uploads/video/video-poster_refinary_yj0uwn_ac856m.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5rem;
+    align-items: center;
+}
+
+.nalcoHeading {
+    margin-bottom: 3rem;
+    font-weight: 900;
+    /* color: rgb(230, 6, 6); */
+}
+
+.img {
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+label {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+input {
+    padding: 5px;
+}
+
+.register,
+.forgot {
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(67, 67, 181);
+}
+
+
+/* input[type="submit"] {
+    background-color: rgb(235, 50, 50);
+    color: rgb(209, 196, 196);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(58, 58, 201);
+} */
+
+button {
+    background-color: rgb(235, 50, 50);
+    color: rgb(4, 4, 4);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+
+}
+
+button:hover {
+    background-color: rgb(58, 58, 201);
+}

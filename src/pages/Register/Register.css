@@ -1,0 +1,55 @@
+.form-main-body {
+    background-image: url(https://nalcoindia.com/wp-content/uploads/video/video-poster_refinary_yj0uwn_ac856m.jpg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-footer {
+    background-color: #fff;
+    border-top: none;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form .form-group {
+    margin-bottom: 1rem;
+}
+
+form .form-control-file {
+    margin-top: 0.5rem;
+}
+
+button.btn-link {
+    padding: 0;
+    margin-top: 0.5rem;
+}
+
+li {
+    font-weight: 500;
+}
